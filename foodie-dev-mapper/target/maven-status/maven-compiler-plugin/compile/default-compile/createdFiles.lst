@@ -1,0 +1,14 @@
+com\aicv\mapper\ItemsCommentsMapper.class
+com\aicv\mapper\OrdersMapper.class
+com\aicv\mapper\UserAddressMapper.class
+com\aicv\mapper\ItemsMapper.class
+com\aicv\mapper\UsersMapper.class
+com\aicv\my\mapper\MyMapper.class
+com\aicv\mapper\CategoryMapper.class
+com\aicv\mapper\CarouselMapper.class
+com\aicv\mapper\OrderItemsMapper.class
+com\aicv\mapper\StuMapper.class
+com\aicv\mapper\ItemsSpecMapper.class
+com\aicv\mapper\OrderStatusMapper.class
+com\aicv\mapper\ItemsImgMapper.class
+com\aicv\mapper\ItemsParamMapper.class

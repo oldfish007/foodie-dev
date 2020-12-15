@@ -1,0 +1,4 @@
+com\aicv\Application.class
+com\aicv\controller\PassportController.class
+com\aicv\controller\HelloController.class
+com\aicv\controller\StuFooController.class

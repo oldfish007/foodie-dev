@@ -1,0 +1,6 @@
+com\aicv\service\impl\StuServiceImpl.class
+com\aicv\service\UserService.class
+com\aicv\service\StudService.class
+com\aicv\service\TestTransService.class
+com\aicv\service\impl\TestTransServiceImpl.class
+com\aicv\service\impl\UserServiceImpl.class

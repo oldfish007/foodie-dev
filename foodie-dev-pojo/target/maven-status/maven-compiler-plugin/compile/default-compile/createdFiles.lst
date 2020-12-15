@@ -1,0 +1,14 @@
+com\aicv\pojo\OrderStatus.class
+com\aicv\pojo\ItemsComments.class
+com\aicv\pojo\ItemsSpec.class
+com\aicv\pojo\OrderItems.class
+com\aicv\pojo\Carousel.class
+com\aicv\pojo\Users.class
+com\aicv\pojo\ItemsParam.class
+com\aicv\pojo\Stu.class
+com\aicv\pojo\Orders.class
+com\aicv\pojo\bo\UserBO.class
+com\aicv\pojo\UserAddress.class
+com\aicv\pojo\Category.class
+com\aicv\pojo\Items.class
+com\aicv\pojo\ItemsImg.class
